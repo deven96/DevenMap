@@ -14,7 +14,7 @@ Creating a map application using React native
 - change directory into project
 
 ```bash
-    cd WeatherProject/
+    cd DevenMap/
 ```
 
 ### Development mode
